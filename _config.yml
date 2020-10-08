@@ -4,7 +4,7 @@ tagline:             ''
 description:         ''
 url:                 https://jakedrew.github.io
 baseurl:             ''
-paginate:            5
+paginate:            1
 permalink:           pretty
 
 # About/contact
