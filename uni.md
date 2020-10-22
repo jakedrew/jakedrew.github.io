@@ -2,7 +2,7 @@
 layout: page
 permalink: /uni
 permalink_name: /uni
-title: uni.md
+title: University
 ---
 
 # University
