@@ -2,14 +2,11 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: jekyll-shell-theme
+title: Jake Drew
 
 #detail_image: assets/theme_logo.svg
 
 ---
-
-# jake drew
-
 ### Howdy, I'm Jake Drew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📓 I’m currently a student at Swansea University studying Electrical and Electronic Engineering
