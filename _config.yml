@@ -1,9 +1,10 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+# Setup
+title:               Jake Drew
+tagline:             'Oxford | Swansea'
+description:         ''
+github_username:     jakedrew
+url:                 https://jakedrew.github.io
+baseurl:             ''
 
 plugins:
   - jemoji
