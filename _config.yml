@@ -19,7 +19,6 @@ highlighter: rouge
 header_pages:
   - index.md
   - projects.md
-  - contact.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
