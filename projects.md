@@ -10,8 +10,8 @@ title: Jake Drew
 - 🔗 **HTTP.js** is a small JavaScript library to facilitate HTTP requests. [View the source code][httpjs] <br><br>
 - ⌨️ **Koding Hackathon**: 48hr Hackathon where I led a team of 5 called Digitico, code is private but details on team can be viewed [here][koding] <br><br>
 - ⌨️ **Static Showdown 2016**: 48hr Hackathon where you are limited to only using HTML5, CSS and JS. Built a instant messenger. Details available [here][ss16] <br><br>
-- 🎞️ **Recycling of Love**: Animated short film using Blender. Which premiered on 1st October 2016, at the annual Abingdon Film Unit screening. Watch on [youtube][recyclingoflove] or [vimeo][recyclingoflovevimeo] <br><br>
-- 🎞️ **Has Bins**: Animated short film using Blender. Which premiered on 29th October 2018, at the annual Abingdon Film Unit screening. Watch on [youtube][hasbins] or [vimeo][hasbinsvimeo] <br><br>
+- 🎞️ **Recycling of Love**: Animated short film using Blender. Which premiered on 1st October 2016, at the annual Abingdon Film Unit screening. Watch on [YouTube][recyclingoflove] or [Vimeo][recyclingoflovevimeo] <br><br>
+- 🎞️ **Has Bins**: Animated short film using Blender. Which premiered on 29th October 2018, at the annual Abingdon Film Unit screening. Watch on [YouTube][hasbins] or [Vimeo][hasbinsvimeo] <br><br>
 
 [smartwatch]: https://github.com/jakedrew/SmartWatch
 [httpjs]: https://github.com/jakedrew/HTTP.js
