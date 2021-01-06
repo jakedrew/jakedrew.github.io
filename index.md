@@ -12,6 +12,7 @@ title: Jake Drew
 - 📓 I’m currently a student at Swansea University studying Electrical and Electronic Engineering
 - 🔭 You'll find some of my personal projects and university projects here
 - 📫 How to reach me: [@jakedrw][linkedin] or [@jakemichaeldrew][instagram] or [jake@jakedrw.com][mail]
+- 💰 Buy Bitcoin using [Coinbase][coinbase]
 
 ### Connect with me:
 
@@ -38,3 +39,4 @@ I have made many projects from a variety of languages and tools these are as fol
 [instagram]: https://www.instagram.com/jakemichaeldrew/
 [github]: https://github.com/jakedrew
 [mail]: mailto:jake@jakedrw.com
+[coinbase]: https://www.coinbase.com/join/drew_oz
