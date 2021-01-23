@@ -37,6 +37,7 @@ b, strong { color: var(--main-color); }
 .light-mode body { color: var(--bg-color);}
 .light-mode .primary-text { color: var(--light-text);}
 .light-mode h1, .light-mode h2, .light-mode h3, .light-mode h4, .light-mode h5, .light-mode h6 { color: var(--bg-color); }
+.light-mode li.page_title { color: var(--bg-color);}
 
 /* SMALL FONT OVERRIDE */
 body.large { line-height: 2em; font-size: 1em; }
