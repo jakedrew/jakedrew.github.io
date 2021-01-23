@@ -3,7 +3,7 @@ layout: home
 permalink: /
 permalink_name: /home
 title: Jake Drew
-js_file: /js/index.js
+js_file: /assets/js/index.js
 
 #detail_image: assets/theme_logo.svg
 
